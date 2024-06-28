@@ -1,0 +1,19 @@
+{
+  "name": "credit-card-checkout",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Denis",
+  "license": "ISC",
+  "dependencies": {
+    "air-datepicker": "^3.5.3",
+    "inputmask": "^5.0.9",
+    "redom": "^4.1.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "parcel": "^2.12.0"
+  }
+}
